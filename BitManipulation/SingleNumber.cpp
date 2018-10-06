@@ -7,6 +7,8 @@
 // Input : [1 2 2 3 1]
 // Output : 3
 
+//nishant
+
 int Solution::singleNumber(const vector<int> &A) {
     int ans = A[0];
     for(int i=1;i<A.size();i++){
