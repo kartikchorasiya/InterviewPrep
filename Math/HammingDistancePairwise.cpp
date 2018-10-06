@@ -22,6 +22,8 @@
 // 2 + 0 + 1
 // 1 + 1 + 0 = 8
 
+//hamming
+
 int Solution::hammingDistance(const vector<int> &A) {
     long long int sum = 0;
     
