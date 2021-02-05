@@ -6,6 +6,8 @@
 
 // binary form = 110
 
+//binary
+
 string Solution::findDigitsInBinary(int A) {
     string binary = "";
     if(A==0){
